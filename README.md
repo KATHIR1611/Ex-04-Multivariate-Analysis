@@ -94,45 +94,45 @@ sns.heatmap(df.corr(),annot=True)
 
 Dataset
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/001.png)
 
 Dataset information
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/002.png)
 
 Data describe
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/003.png)
 
 Checking and cleaning of null values
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/004.png)
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/005.png)
 
 Data types
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/006.png)
 
 Scatterplot
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/007.png)
 
 Barplot
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/008.png)
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/009.png)
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/010.png)
 
 Correlation coefficient interpretation
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/011.png)
 
 Heatmap
 
-![]()
+![](https://github.com/KATHIR1611/Ex-04-Multivariate-Analysis/blob/main/012.png)
 
 # Result 
 
